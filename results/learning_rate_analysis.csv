@@ -1,0 +1,3 @@
+model,training_samples,largest_hessian_eigenvalue_L,suggested_learning_rate_1_over_L,exclusive_stability_upper_bound_2_over_L,learning_rate_used,within_stable_range_0_lt_rate_lt_2_over_L
+Untransformed,900,3339570.946456718,2.9943966336783447e-07,5.988793267356689e-07,3e-07,True
+Standardized,900,4.687342943664141,0.2133404813811832,0.4266809627623664,0.2,True
